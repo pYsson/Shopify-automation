@@ -1,0 +1,19 @@
+{
+    "email": "abc@test.com",
+    "fname": "first",
+    "lname": "Last",
+    "add1": "ABC 123 Street",
+    "add2" : "",
+    "city" : "city",
+    "province" : "NJ",
+    "country" : "United States",
+    "postal_code" : "00000",
+    "phone" : "0001112222",
+    "card": {
+        "card_number" : "1234000012340000",
+        "cardholder" : "YOUR NAME",
+        "exp_m" : "02",
+        "exp_y" : "2022",
+        "cvv" : "222"
+    }
+}
